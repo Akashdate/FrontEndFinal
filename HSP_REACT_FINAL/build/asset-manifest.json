@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e36b1fa7.css",
+    "main.js": "/static/js/main.006da97f.js",
+    "static/media/doc1.jpg": "/static/media/doc1.19b4cddb57a555a87413.jpg",
+    "static/media/doc3.jpg": "/static/media/doc3.59964e10445b8f09b976.jpg",
+    "static/media/LOGO.png": "/static/media/LOGO.393b4c651f6e9fcf7e6e.png",
+    "static/media/doc2.jpg": "/static/media/doc2.ea024a9dc739b274705c.jpg",
+    "static/media/about-img.png": "/static/media/about-img.405ed58703aab1279e90.png",
+    "static/media/result.svg": "/static/media/result.f2cf169163f2410816a2153c7d136b3e.svg",
+    "static/media/doctors-4.jpg": "/static/media/doctors-4.d2e578c3fa467ad05022.jpg",
+    "static/media/doctors-1.jpg": "/static/media/doctors-1.eec585aaa98d4430c7c4.jpg",
+    "static/media/doctors-3.jpg": "/static/media/doctors-3.80b20cb68fe60a73a169.jpg",
+    "static/media/doctors-2.jpg": "/static/media/doctors-2.07d1b7c11067d81329ad.jpg",
+    "static/media/doctors-5.jfif": "/static/media/doctors-5.f2965e27def9560cd213.jfif",
+    "index.html": "/index.html",
+    "main.e36b1fa7.css.map": "/static/css/main.e36b1fa7.css.map",
+    "main.006da97f.js.map": "/static/js/main.006da97f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e36b1fa7.css",
+    "static/js/main.006da97f.js"
+  ]
+}
